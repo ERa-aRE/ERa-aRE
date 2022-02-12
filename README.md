@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ERa-aRE
-- 👀 I’m interested in app development
+- 👀 I’m interested in app development and AI
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
