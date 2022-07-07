@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ERa-aRE
-- 👀 I’m interested in app development and AI
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in app development 
+- 🌱 I’m currently learning ...
+-    Junior android developer
+
 
 <!---
 ERa-aRE/ERa-aRE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
