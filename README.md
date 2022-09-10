@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ERa-aRE
-- 👀 I’m interested in app development 
-- 🌱 I’m currently learning ...
--    Junior android developer
+- I’m @ERa-aRE
+- I’m interested in app development 
+- Always learning ...
+- era_reborn@yahoo.com
 
 
 <!---
