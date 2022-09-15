@@ -1,5 +1,5 @@
 - I’m @ERa-aRE
-- I’m interested in app development 
+- Tryin to be a good Android app developer
 - Always learning ...
 - era_reborn@yahoo.com
 
