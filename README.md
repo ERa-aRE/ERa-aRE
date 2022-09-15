@@ -1,4 +1,5 @@
-- I’m @ERa-aRE
+- Good day to you traveller
+- I’m Eradaviraf -> @ERa-aRE
 - Tryin to be a good Android app developer
 - Always learning ...
 - era_reborn@yahoo.com
