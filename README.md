@@ -1,4 +1,3 @@
-- I’m Eradaviraf -> @ERa-aRE
 - Always learning ...
 - era_reborn@yahoo.com
 
